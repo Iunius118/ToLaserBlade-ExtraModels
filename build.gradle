@@ -81,6 +81,11 @@ processResources {
     filesMatching("**/fabric.mod.json") {
         expand MOD_VERSION: project.mod_version
     }
+
+    // Replace ${MOD_VERSION} to mod version for (neoforge.)mods.toml
+    filesMatching("**/*.toml") {
+        expand MOD_VERSION: project.mod_version
+    }
 }
 
 jar {
@@ -104,7 +109,7 @@ jar {
     // Replace "javafml" to "lowcodefml" in Forge mods.toml to avoid loading mod class
     filesMatching('**/mods.toml') {
         filter { line ->
-            line.replaceFirst(/javafml/,"lowcodefml")
+            line.replaceFirst(/javafml/, "lowcodefml")
         }
     }
 }

@@ -7,7 +7,7 @@ issueTrackerURL="https://github.com/Iunius118/ToLaserBlade-ExtraModels/issues"
 
 [[mods]]
 modId="tlbexmodels"
-version="${file.jarVersion}"
+version="${MOD_VERSION}"
 displayName="ToLaserBlade-ExtraModels"
 displayURL="https://github.com/Iunius118/ToLaserBlade-ExtraModels"
 logoFile="tlbexmodels_logo.png"
