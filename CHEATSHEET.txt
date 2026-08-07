@@ -1,46 +1,42 @@
 # Cheatsheet
 
-ToLaserBlade-ExtraModels v0.1.1
+ToLaserBlade-ExtraModels
+version 0.2.0
+
+- [ToLaserBlade-ExtraModels](https://github.com/Iunius118/ToLaserBlade-ExtraModels)
 
 This mod is a ToLaserBlade add-on to add more laser blade shapes.
 
 ## Requirements
 
-- Forge
-  - ToLaserBlade (Forge) v11.0.0+
+- NeoForge/Fabric/Forge
+  - ToLaserBlade v17.0.0+
   - https://www.curseforge.com/minecraft/mc-mods/tolaserblade
   - https://modrinth.com/mod/tolaserblade
-- NeoForge
-  - ToLaserBlade (NeoForge) v11.0.0+
-  - https://www.curseforge.com/minecraft/mc-mods/tolaserblade
-  - https://modrinth.com/mod/tolaserblade
-- Fabric
-  - ToLaserBlade (Fabric) v6.0.0+
-  - https://www.curseforge.com/minecraft/mc-mods/tolaserblade-fabric
 
 ## Recipes
 
 ### Changing Laser Blade Shape
 
-Smithing Table:
+Laser Blade Blueprint:
 
-- Type 101 (Minecraft like): Laser Blade Blueprint + Laser Blade + Iron Sword
-- Type 217 (slim): Laser Blade Blueprint + Laser Blade + Yellow Candle
-- Type 222 (cat 1): Laser Blade Blueprint + Laser Blade + Raw Salmon
-- Type 305 (thin): Laser Blade Blueprint + Laser Blade + Dragon's Breath
-- Type 316 (shield like): Laser Blade Blueprint + Laser Blade + Shield
-- Type 407 (no guard): Laser Blade Blueprint + Laser Blade + Slimeball
-- Type 504 (slim and long): Laser Blade Blueprint + Laser Blade + Diamond Ore
-- Type 519 (double-bladed): Laser Blade Blueprint + Laser Blade + Diamond Ore
-- Type 606 (hexagonal): Laser Blade Blueprint + Laser Blade + Honeycomb
-- Type 726 (shark): Laser Blade Blueprint + Laser Blade + Raw Cod
-- Type 801 (firearm style): Laser Blade Blueprint + Laser Blade + Crossbow
-- Type 808 (cat 2): Laser Blade Blueprint + Laser Blade + Tropical Fish
-- Type 825 (double-sized blade): Laser Blade Blueprint + Laser Blade + Barrel
-- Type 903 (katana): Laser Blade Blueprint + Laser Blade + Lightning Rod
-- Type 913 (hand blender): Laser Blade Blueprint + Laser Blade + Piston
-- Type 924 (flashlight): Laser Blade Blueprint + Laser Blade + Spyglass
-- Type 1009 (poleaxe): Laser Blade Blueprint + Laser Blade + Iron Axe
-- Type 1108 (covered with blade): Laser Blade Blueprint + Laser Blade + Wooden Sword
-- Type 1216 (large pommel): Laser Blade Blueprint + Laser Blade + Stone Sword
-- Type 1221 (super multilayer): Laser Blade Blueprint + Laser Blade + End Crystal
+- Type 101 (Minecraft like): Laser Blade + Iron Sword + (empty) + (empty)
+- Type 217 (slim): Laser Blade + Yellow Candle + (empty) + (empty)
+- Type 222 (cat 1): Laser Blade + Raw Salmon + (empty) + (empty)
+- Type 305 (thin): Laser Blade + Dragon's Breath + (empty) + (empty)
+- Type 316 (shield like): Laser Blade + Shield + (empty) + (empty)
+- Type 407 (no guard): Laser Blade + Slimeball + (empty) + (empty)
+- Type 504 (slim and long): Laser Blade + Diamond Ore + (empty) + (empty)
+- Type 519 (double-bladed): Laser Blade + Diamond Ore + (empty) + (empty)
+- Type 606 (hexagonal): Laser Blade + Honeycomb + (empty) + (empty)
+- Type 726 (shark): Laser Blade + Raw Cod + (empty) + (empty)
+- Type 801 (firearm style): Laser Blade + Crossbow + (empty) + (empty)
+- Type 808 (cat 2): Laser Blade + Tropical Fish + (empty) + (empty)
+- Type 825 (double-sized blade): Laser Blade + Barrel + (empty) + (empty)
+- Type 903 (katana): Laser Blade + Lightning Rod + (empty) + (empty)
+- Type 913 (hand blender): Laser Blade + Piston + (empty) + (empty)
+- Type 924 (flashlight): Laser Blade + Spyglass + (empty) + (empty)
+- Type 1009 (poleaxe): Laser Blade + Iron Axe + (empty) + (empty)
+- Type 1108 (covered with blade): Laser Blade + Wooden Sword + (empty) + (empty)
+- Type 1216 (large pommel): Laser Blade + Stone Sword + (empty) + (empty)
+- Type 1221 (super multilayer): Laser Blade + End Crystal + (empty) + (empty)

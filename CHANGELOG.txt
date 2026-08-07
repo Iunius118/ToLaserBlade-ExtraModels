@@ -4,6 +4,11 @@
 
 ## [Unreleased]
 
+## [0.2.0]
+### Changed
+- Compatible with ToLaserBlade for Minecraft 26.1.2.
+- Support new recipe data format.
+
 ## [0.1.1]
 ### Fixed
 - Compatible with Forge 60.0+.

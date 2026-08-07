@@ -8,11 +8,11 @@ A ToLaserBlade add-on to add more laser blade shapes.
 
 ### To Play
 
-- ToLaserBlade (Forge) v11.0.0+/(NeoForge) v11.0.0+/(Fabric) v6.0.0+
+- ToLaserBlade v17.0.0+
 
 ### To Build
 
-- [ToLaserBlade (Forge)](https://github.com/Iunius118/ToLaserBlade) v1.21.3-11.0.0
+- [ToLaserBlade](https://github.com/Iunius118/ToLaserBlade) (NeoForge) v17.0.0-beta.7+26.1.2
 
 ## Download Mods
 
