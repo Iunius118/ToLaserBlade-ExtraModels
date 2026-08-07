@@ -1,32 +1,26 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
 
-# Ignore all
-/*
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
 
-# Exclude source
-!/src/
+# gradle
+build
+.gradle
 
-# Exclude docs
-!/docs/
+# other
+eclipse
+run
+runs
+run-data
 
-# GitHub
-!/.github/
-
-# Gradle
-!/gradle/
-!gradle.properties
-!settings.gradle
-!build.gradle
-!gradlew*
-
-# Documents included in jar
-!*.md
-!LICENSE*
-!CREDITS*
-!CHANGELOG*
-!CHEATSHEET*
-!README*
-
-# Others
-!.gitignore
-!.gitattributes
-!update.json
+repo
