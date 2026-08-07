@@ -1,0 +1,8 @@
+{
+  "type": "tolaserblade:remodel",
+  "additional": [
+    "minecraft:barrel"
+  ],
+  "base": "#tolaserblade:laser_blades",
+  "model": 825
+}

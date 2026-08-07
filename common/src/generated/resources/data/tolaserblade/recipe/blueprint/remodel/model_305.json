@@ -1,0 +1,8 @@
+{
+  "type": "tolaserblade:remodel",
+  "additional": [
+    "minecraft:dragon_breath"
+  ],
+  "base": "#tolaserblade:laser_blades",
+  "model": 305
+}

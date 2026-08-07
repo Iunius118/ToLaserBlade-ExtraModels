@@ -1,0 +1,8 @@
+{
+  "type": "tolaserblade:remodel",
+  "additional": [
+    "minecraft:shield"
+  ],
+  "base": "#tolaserblade:laser_blades",
+  "model": 316
+}

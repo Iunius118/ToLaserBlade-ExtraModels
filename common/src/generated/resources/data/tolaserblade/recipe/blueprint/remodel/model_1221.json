@@ -1,0 +1,8 @@
+{
+  "type": "tolaserblade:remodel",
+  "additional": [
+    "minecraft:end_crystal"
+  ],
+  "base": "#tolaserblade:laser_blades",
+  "model": 1221
+}

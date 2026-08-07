@@ -1,9 +1,0 @@
-{
-  "type": "tolaserblade:model_change",
-  "addition": "minecraft:cod",
-  "base": "tolaserblade:laser_blade",
-  "result": {
-    "model_type": 726
-  },
-  "template": "tolaserblade:lb_blueprint"
-}

@@ -1,0 +1,8 @@
+{
+  "type": "tolaserblade:remodel",
+  "additional": [
+    "minecraft:iron_axe"
+  ],
+  "base": "#tolaserblade:laser_blades",
+  "model": 1009
+}

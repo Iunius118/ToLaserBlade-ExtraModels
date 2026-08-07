@@ -1,0 +1,8 @@
+{
+  "type": "tolaserblade:remodel",
+  "additional": [
+    "minecraft:cod"
+  ],
+  "base": "#tolaserblade:laser_blades",
+  "model": 726
+}

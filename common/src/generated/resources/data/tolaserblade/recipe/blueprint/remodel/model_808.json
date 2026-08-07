@@ -1,0 +1,8 @@
+{
+  "type": "tolaserblade:remodel",
+  "additional": [
+    "minecraft:tropical_fish"
+  ],
+  "base": "#tolaserblade:laser_blades",
+  "model": 808
+}

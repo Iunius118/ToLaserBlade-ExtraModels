@@ -1,0 +1,8 @@
+{
+  "type": "tolaserblade:remodel",
+  "additional": [
+    "minecraft:slime_ball"
+  ],
+  "base": "#tolaserblade:laser_blades",
+  "model": 407
+}

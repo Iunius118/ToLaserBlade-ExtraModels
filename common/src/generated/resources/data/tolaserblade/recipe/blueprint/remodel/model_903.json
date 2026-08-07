@@ -1,0 +1,8 @@
+{
+  "type": "tolaserblade:remodel",
+  "additional": [
+    "minecraft:lightning_rod"
+  ],
+  "base": "#tolaserblade:laser_blades",
+  "model": 903
+}

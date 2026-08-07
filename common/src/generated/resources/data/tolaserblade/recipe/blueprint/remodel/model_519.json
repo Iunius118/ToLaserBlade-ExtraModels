@@ -1,0 +1,8 @@
+{
+  "type": "tolaserblade:remodel",
+  "additional": [
+    "minecraft:diamond_ore"
+  ],
+  "base": "#tolaserblade:laser_blades",
+  "model": 519
+}

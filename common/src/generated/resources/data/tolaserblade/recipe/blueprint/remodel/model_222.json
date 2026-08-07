@@ -1,0 +1,8 @@
+{
+  "type": "tolaserblade:remodel",
+  "additional": [
+    "minecraft:salmon"
+  ],
+  "base": "#tolaserblade:laser_blades",
+  "model": 222
+}

@@ -1,0 +1,8 @@
+{
+  "type": "tolaserblade:remodel",
+  "additional": [
+    "minecraft:wooden_sword"
+  ],
+  "base": "#tolaserblade:laser_blades",
+  "model": 1108
+}
