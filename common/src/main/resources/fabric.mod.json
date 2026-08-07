@@ -1,33 +1,31 @@
 {
   "schemaVersion": 1,
-  "id": "tlbexmodels",
-  "version": "${MOD_VERSION}",
-
-  "name": "ToLaserBlade-ExtraModels",
-  "description": "A ToLaserBlade add-on to add more laser blade shapes.",
+  "id": "${mod_id}",
+  "version": "${version}",
+  "name": "${mod_name}",
+  "description": "${description}",
   "authors": [
-    "Iunius118"
+    "${mod_author}"
   ],
   "contact": {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/tolaserblade-extramodels",
     "sources": "https://github.com/Iunius118/ToLaserBlade-ExtraModels",
     "issues": "https://github.com/Iunius118/ToLaserBlade-ExtraModels/issues"
   },
-
-  "license": "MIT license",
-  "icon": "tlbexmodels_logo.png",
-
+  "license": "${license}",
+  "icon": "assets/${mod_id}/icon.png",
   "environment": "*",
   "entrypoints": {
   },
+  "mixins": [
+  ],
   "depends": {
     "tolaserblade": "*",
-    "fabricloader": ">=0.16.0",
-    "fabric": "*",
-    "minecraft": ">=1.21.3",
-    "java": ">=21"
+    "fabricloader": ">=${fabric_loader_version}",
+    "fabric-api": "*",
+    "minecraft": ">=${minecraft_version}",
+    "java": ">=${java_version}"
   },
   "suggests": {
-    "another-mod": "*"
   }
 }
